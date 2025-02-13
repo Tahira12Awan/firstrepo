@@ -11,7 +11,8 @@ https://github.com/asadali0999/firstrepo
 https://github.com/hina-rani/hina-assignment1
 
 # Tahira 
-https://github.com/asadali0999/firstrepo
+https://github.com/Tahira12Awan/hello-
+
 
 # noor khan link
 https://github.com/noorkhanswati21/pythonproject/
